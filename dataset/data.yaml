@@ -1,0 +1,16 @@
+names:
+- idli
+- papad
+- plain dosa
+- rice
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: food-detection-38upu
+  url: https://universe.roboflow.com/kolla-om-vivek-xrufu/food-detection-38upu/dataset/1
+  version: 1
+  workspace: kolla-om-vivek-xrufu
+path: E:/Food Detection & Calorie Estimation System/dataset
+train: train/images
+val: val/images
+test: test/images
